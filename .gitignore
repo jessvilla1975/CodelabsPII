@@ -1,0 +1,27 @@
+# Ambiente virtual
+mi_ambiente/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribución / empaquetado
+dist/
+build/
+*.egg-info/
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de sistema
+Thumbs.db
+.DS_Store
