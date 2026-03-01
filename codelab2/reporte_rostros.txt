@@ -1,0 +1,8 @@
+Imagen: foto3.jpg
+Detected: 1 rostro(s) • tiempo: 443.7 ms
+
+  conf=0.994921 box=[768, 288, 540, 733] keypoints=['nose', 'mouth_right', 'right_eye', 'left_eye', 'mouth_left']
+
+Con thr=0.9 quedan 1 rostros
+
+IoU(primer_rostro, gt_box): 0.0
